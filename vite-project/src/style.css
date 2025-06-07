@@ -2,10 +2,8 @@
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-image: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFxeXYxOHJya2M2YWxic2Z6N3gzbGVwZWwzcmwya2g3czN6ZmY3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RkDZq0dhhYHhxdFrJB/giphy.gif);
+  background-size: cover;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
